@@ -29,3 +29,23 @@ ___
   Modify or identify the tag.
 3. **Elements**:  The sum of the information or text inside two corresponding tags.
 
+___
+
+####CSS
+
+___
+
+1. **Selectors**: Targets HTML elements to be styled. 
+2. **Properties**: Aspect of an element that will be styled (i.e. color, font, size).
+3. **Value**: Specify the Property (i.e. blue, Helvetica, 5px).
+4. **Declaration**: Combination of _property_ and _value_ separated by a colon and ending with a semi-colon. 
+
+[Reference Guide](https://www.kobzarev.com/wp-content/uploads/cheatsheets/css/css3-cheat-sheet.pdf)
+
+[CSS Properties](http://www.w3schools.com/cssref/)
+
+[CSS Tricks](https://css-tricks.com/almanac/properties/)
+
+[Codrop](http://tympanus.net/codrops/css_reference/#section_css-property)
+
+[CSS Shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties)
